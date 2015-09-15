@@ -1,0 +1,1417 @@
+
+15:06:28 02:07:42 Starting authentication script.
+15:06:28 02:07:42 POST Request has been made.
+15:06:28 02:07:42 Signiture keys match.
+15:06:28 02:07:42 select * from ReaderTable where reader_name='Jerome Summer Reading Log' and reader_password='password'
+15:06:28 02:07:42 
+15:06:28 02:07:42 
+15:06:28 02:07:42 
+15:06:28 02:07:42 
+15:06:28 02:07:42 User and password failed. Writting failure XML.
+15:06:28 02:07:42 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Failure</result><id></id><name></name><email></email></authentication>
+
+
+15:06:28 02:07:51 Starting authentication script.
+15:06:28 02:07:51 POST Request has been made.
+15:06:28 02:07:51 Signiture keys match.
+15:06:28 02:07:51 select * from ReaderTable where reader_name='Jerome Summer Reading Log' and reader_password='pas'
+15:06:28 02:07:51 
+15:06:28 02:07:51 
+15:06:28 02:07:51 
+15:06:28 02:07:51 
+15:06:28 02:07:51 User and password failed. Writting failure XML.
+15:06:28 02:07:51 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Failure</result><id></id><name></name><email></email></authentication>
+
+
+15:06:28 02:07:51 Starting authentication script.
+15:06:28 02:07:51 POST Request has been made.
+15:06:28 02:07:51 Signiture keys match.
+15:06:28 02:07:51 select * from ReaderTable where reader_name='Jerome Summer Reading Log' and reader_password='pas'
+15:06:28 02:07:51 
+15:06:28 02:07:51 
+15:06:28 02:07:51 
+15:06:28 02:07:51 
+15:06:28 02:07:51 User and password failed. Writting failure XML.
+15:06:28 02:07:51 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Failure</result><id></id><name></name><email></email></authentication>
+
+
+15:06:28 02:07:51 Starting authentication script.
+15:06:28 02:07:51 POST Request has been made.
+15:06:28 02:07:51 Signiture keys match.
+15:06:28 02:07:51 select * from ReaderTable where reader_name='Jerome Summer Reading Log' and reader_password='pas'
+15:06:28 02:07:51 
+15:06:28 02:07:51 
+15:06:28 02:07:51 
+15:06:28 02:07:51 
+15:06:28 02:07:51 User and password failed. Writting failure XML.
+15:06:28 02:07:51 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Failure</result><id></id><name></name><email></email></authentication>
+
+
+15:06:28 02:07:51 Starting authentication script.
+15:06:28 02:07:51 POST Request has been made.
+15:06:28 02:07:51 Signiture keys match.
+15:06:28 02:07:51 select * from ReaderTable where reader_name='Jerome Summer Reading Log' and reader_password='pas'
+15:06:28 02:07:51 
+15:06:28 02:07:51 
+15:06:28 02:07:51 
+15:06:28 02:07:51 
+15:06:28 02:07:51 User and password failed. Writting failure XML.
+15:06:28 02:07:51 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Failure</result><id></id><name></name><email></email></authentication>
+
+
+15:06:28 02:07:51 Starting authentication script.
+15:06:28 02:07:51 POST Request has been made.
+15:06:28 02:07:51 Signiture keys match.
+15:06:28 02:07:51 select * from ReaderTable where reader_name='Jerome Summer Reading Log' and reader_password='pas'
+15:06:28 02:07:51 
+15:06:28 02:07:51 
+15:06:28 02:07:51 
+15:06:28 02:07:51 
+15:06:28 02:07:51 User and password failed. Writting failure XML.
+15:06:28 02:07:51 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Failure</result><id></id><name></name><email></email></authentication>
+
+
+15:06:28 02:08:00 Starting authentication script.
+15:06:28 02:08:00 POST Request has been made.
+15:06:28 02:08:00 Signiture keys match.
+15:06:28 02:08:00 select * from ReaderTable where reader_name='Jerome Summer Reading Log' and reader_password='testme'
+15:06:28 02:08:00 19
+15:06:28 02:08:00 Jerome Summer Reading Log
+15:06:28 02:08:00 testme
+15:06:28 02:08:00 jeromesch@outlook.com
+15:06:28 02:08:00 User and password sucessful. Writting success XML.
+15:06:28 02:08:00 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>19</id><name>Jerome Summer Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:06:28 02:10:59 Starting authentication script.
+15:06:28 02:10:59 POST Request has been made.
+15:06:28 02:10:59 Signiture keys match.
+15:06:28 02:10:59 select * from ReaderTable where reader_name='Karl Reading Log' and reader_password='test me'
+15:06:28 02:10:59 
+15:06:28 02:10:59 
+15:06:28 02:10:59 
+15:06:28 02:10:59 
+15:06:28 02:10:59 User and password failed. Writting failure XML.
+15:06:28 02:10:59 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Failure</result><id></id><name></name><email></email></authentication>
+
+
+15:06:28 02:12:01 Starting authentication script.
+15:06:28 02:12:01 POST Request has been made.
+15:06:28 02:12:01 Signiture keys match.
+15:06:28 02:12:01 select * from ReaderTable where reader_name='Karl Reading Log' and reader_password='testme'
+15:06:28 02:12:01 20
+15:06:28 02:12:01 Karl Reading Log
+15:06:28 02:12:01 testme
+15:06:28 02:12:01 subrock@gmail.com
+15:06:28 02:12:01 User and password sucessful. Writting success XML.
+15:06:28 02:12:01 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>20</id><name>Karl Reading Log</name><email>subrock@gmail.com</email></authentication>
+
+
+15:06:28 02:12:50 Starting authentication script.
+15:06:28 02:12:50 POST Request has been made.
+15:06:28 02:12:50 Signiture keys match.
+15:06:28 02:12:50 select * from ReaderTable where reader_name='Karl Reading Log' and reader_password='test me'
+15:06:28 02:12:50 
+15:06:28 02:12:50 
+15:06:28 02:12:50 
+15:06:28 02:12:50 
+15:06:28 02:12:50 User and password failed. Writting failure XML.
+15:06:28 02:12:50 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Failure</result><id></id><name></name><email></email></authentication>
+
+
+15:06:28 02:13:06 Starting authentication script.
+15:06:28 02:13:06 POST Request has been made.
+15:06:28 02:13:06 Signiture keys match.
+15:06:28 02:13:06 select * from ReaderTable where reader_name='Karl Reading Log' and reader_password='testme'
+15:06:28 02:13:06 20
+15:06:28 02:13:06 Karl Reading Log
+15:06:28 02:13:06 testme
+15:06:28 02:13:06 subrock@gmail.com
+15:06:28 02:13:06 User and password sucessful. Writting success XML.
+15:06:28 02:13:07 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>20</id><name>Karl Reading Log</name><email>subrock@gmail.com</email></authentication>
+
+
+15:06:28 02:15:44 Starting authentication script.
+15:06:28 02:15:44 POST Request has been made.
+15:06:28 02:15:44 Signiture keys match.
+15:06:28 02:15:44 select * from ReaderTable where reader_name='Karl Reading Log' and reader_password='password'
+15:06:28 02:15:44 
+15:06:28 02:15:44 
+15:06:28 02:15:44 
+15:06:28 02:15:44 
+15:06:28 02:15:44 User and password failed. Writting failure XML.
+15:06:28 02:15:44 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Failure</result><id></id><name></name><email></email></authentication>
+
+
+15:06:28 02:16:22 Starting authentication script.
+15:06:28 02:16:22 POST Request has been made.
+15:06:28 02:16:22 Signiture keys match.
+15:06:28 02:16:22 select * from ReaderTable where reader_name='Jerome Summer Reading Log' and reader_password='testme'
+15:06:28 02:16:22 19
+15:06:28 02:16:22 Jerome Summer Reading Log
+15:06:28 02:16:22 testme
+15:06:28 02:16:22 jeromesch@outlook.com
+15:06:28 02:16:22 User and password sucessful. Writting success XML.
+15:06:28 02:16:22 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>19</id><name>Jerome Summer Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:06:28 04:57:11 Starting authentication script.
+15:06:28 04:57:11 POST Request has been made.
+15:06:28 04:57:11 Signiture keys match.
+15:06:28 04:57:11 select * from ReaderTable where reader_name='Jerome Summer Reading Log' and reader_password='testme'
+15:06:28 04:57:11 19
+15:06:28 04:57:11 Jerome Summer Reading Log
+15:06:28 04:57:11 testme
+15:06:28 04:57:11 jeromesch@outlook.com
+15:06:28 04:57:11 User and password sucessful. Writting success XML.
+15:06:28 04:57:11 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>19</id><name>Jerome Summer Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:06:28 08:02:40 Starting authentication script.
+15:06:28 08:02:40 POST Request has been made.
+15:06:28 08:02:41 Signiture keys match.
+15:06:28 08:02:41 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:06:28 08:02:41 22
+15:06:28 08:02:41 My Reading Log
+15:06:28 08:02:41 password
+15:06:28 08:02:41 
+15:06:28 08:02:41 User and password sucessful. Writting success XML.
+15:06:28 08:02:41 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>22</id><name>My Reading Log</name><email></email></authentication>
+
+
+15:06:29 02:27:48 Starting authentication script.
+15:06:29 02:27:48 POST Request has been made.
+15:06:29 02:27:48 Signiture keys match.
+15:06:29 02:27:48 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:06:29 02:27:48 22
+15:06:29 02:27:48 My Reading Log
+15:06:29 02:27:48 password
+15:06:29 02:27:48 
+15:06:29 02:27:48 User and password sucessful. Writting success XML.
+15:06:29 02:27:48 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>22</id><name>My Reading Log</name><email></email></authentication>
+
+
+15:06:29 02:58:37 Starting authentication script.
+15:06:29 02:58:37 POST Request has been made.
+15:06:29 02:58:37 Signiture keys match.
+15:06:29 02:58:37 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:06:29 02:58:37 22
+15:06:29 02:58:37 My Reading Log
+15:06:29 02:58:37 password
+15:06:29 02:58:37 
+15:06:29 02:58:37 User and password sucessful. Writting success XML.
+15:06:29 02:58:37 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>22</id><name>My Reading Log</name><email></email></authentication>
+
+
+15:06:29 02:58:50 Starting authentication script.
+15:06:29 02:58:50 POST Request has been made.
+15:06:29 02:58:50 Signiture keys match.
+15:06:29 02:58:50 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:06:29 02:58:50 22
+15:06:29 02:58:50 My Reading Log
+15:06:29 02:58:50 password
+15:06:29 02:58:50 
+15:06:29 02:58:50 User and password sucessful. Writting success XML.
+15:06:29 02:58:50 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>22</id><name>My Reading Log</name><email></email></authentication>
+
+
+15:06:29 02:59:22 Starting authentication script.
+15:06:29 02:59:22 POST Request has been made.
+15:06:29 02:59:22 Signiture keys match.
+15:06:29 02:59:22 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:06:29 02:59:22 22
+15:06:29 02:59:22 My Reading Log
+15:06:29 02:59:22 password
+15:06:29 02:59:22 
+15:06:29 02:59:22 User and password sucessful. Writting success XML.
+15:06:29 02:59:22 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>22</id><name>My Reading Log</name><email></email></authentication>
+
+
+15:06:29 02:59:48 Starting authentication script.
+15:06:29 02:59:48 POST Request has been made.
+15:06:29 02:59:48 Signiture keys match.
+15:06:29 02:59:48 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:06:29 02:59:48 22
+15:06:29 02:59:48 My Reading Log
+15:06:29 02:59:48 password
+15:06:29 02:59:48 
+15:06:29 02:59:48 User and password sucessful. Writting success XML.
+15:06:29 02:59:48 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>22</id><name>My Reading Log</name><email></email></authentication>
+
+
+15:06:29 03:01:45 Starting authentication script.
+15:06:29 03:01:45 POST Request has been made.
+15:06:29 03:01:45 Signiture keys match.
+15:06:29 03:01:45 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:06:29 03:01:45 22
+15:06:29 03:01:45 My Reading Log
+15:06:29 03:01:45 password
+15:06:29 03:01:45 
+15:06:29 03:01:45 User and password sucessful. Writting success XML.
+15:06:29 03:01:45 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>22</id><name>My Reading Log</name><email></email></authentication>
+
+
+15:06:29 03:03:07 Starting authentication script.
+15:06:29 03:03:07 POST Request has been made.
+15:06:29 03:03:07 Signiture keys match.
+15:06:29 03:03:07 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:06:29 03:03:07 1
+15:06:29 03:03:07 Student Reading Log
+15:06:29 03:03:07 password
+15:06:29 03:03:07 jeromesch@outlook.com
+15:06:29 03:03:07 User and password sucessful. Writting success XML.
+15:06:29 03:03:07 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:06:29 03:05:40 Starting authentication script.
+15:06:29 03:05:40 POST Request has been made.
+15:06:29 03:05:40 Signiture keys match.
+15:06:29 03:05:40 select * from ReaderTable where reader_name='Karl Reading Log' and reader_password='testme'
+15:06:29 03:05:40 20
+15:06:29 03:05:40 Karl Reading Log
+15:06:29 03:05:40 testme
+15:06:29 03:05:40 subrock@gmail.com
+15:06:29 03:05:40 User and password sucessful. Writting success XML.
+15:06:29 03:05:40 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>20</id><name>Karl Reading Log</name><email>subrock@gmail.com</email></authentication>
+
+
+15:06:29 03:06:11 Starting authentication script.
+15:06:29 03:06:11 POST Request has been made.
+15:06:29 03:06:11 Signiture keys match.
+15:06:29 03:06:11 select * from ReaderTable where reader_name='Karl Reading Log' and reader_password='testme'
+15:06:29 03:06:11 20
+15:06:29 03:06:11 Karl Reading Log
+15:06:29 03:06:11 testme
+15:06:29 03:06:11 subrock@gmail.com
+15:06:29 03:06:11 User and password sucessful. Writting success XML.
+15:06:29 03:06:11 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>20</id><name>Karl Reading Log</name><email>subrock@gmail.com</email></authentication>
+
+
+15:06:29 03:06:30 Starting authentication script.
+15:06:29 03:06:30 POST Request has been made.
+15:06:29 03:06:30 Signiture keys match.
+15:06:29 03:06:30 select * from ReaderTable where reader_name='Karl Reading Log' and reader_password='password'
+15:06:29 03:06:30 
+15:06:29 03:06:30 
+15:06:29 03:06:30 
+15:06:29 03:06:30 
+15:06:29 03:06:30 User and password failed. Writting failure XML.
+15:06:29 03:06:30 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Failure</result><id></id><name></name><email></email></authentication>
+
+
+15:06:30 10:52:52 Starting authentication script.
+15:06:30 10:52:52 POST Request has been made.
+15:06:30 10:52:52 Signiture keys match.
+15:06:30 10:52:52 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:06:30 10:52:52 
+15:06:30 10:52:52 
+15:06:30 10:52:52 
+15:06:30 10:52:52 
+15:06:30 10:52:52 User and password failed. Writting failure XML.
+15:06:30 10:52:52 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Failure</result><id></id><name></name><email></email></authentication>
+
+
+15:06:30 10:52:55 Starting authentication script.
+15:06:30 10:52:55 POST Request has been made.
+15:06:30 10:52:55 Signiture keys match.
+15:06:30 10:52:55 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:06:30 10:52:55 
+15:06:30 10:52:55 
+15:06:30 10:52:55 
+15:06:30 10:52:55 
+15:06:30 10:52:55 User and password failed. Writting failure XML.
+15:06:30 10:52:55 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Failure</result><id></id><name></name><email></email></authentication>
+
+
+15:06:30 10:53:01 Starting authentication script.
+15:06:30 10:53:01 POST Request has been made.
+15:06:30 10:53:01 Signiture keys match.
+15:06:30 10:53:01 select * from ReaderTable where reader_name='Jerome Summer Reading Log' and reader_password='testme'
+15:06:30 10:53:01 
+15:06:30 10:53:01 
+15:06:30 10:53:01 
+15:06:30 10:53:01 
+15:06:30 10:53:01 User and password failed. Writting failure XML.
+15:06:30 10:53:01 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Failure</result><id></id><name></name><email></email></authentication>
+
+
+15:06:30 10:53:12 Starting authentication script.
+15:06:30 10:53:12 POST Request has been made.
+15:06:30 10:53:12 Signiture keys match.
+15:06:30 10:53:12 select * from ReaderTable where reader_name='Jerome Summer Reading Log' and reader_password='testme'
+15:06:30 10:53:12 
+15:06:30 10:53:12 
+15:06:30 10:53:12 
+15:06:30 10:53:12 
+15:06:30 10:53:12 User and password failed. Writting failure XML.
+15:06:30 10:53:12 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Failure</result><id></id><name></name><email></email></authentication>
+
+
+15:06:30 10:54:35 Starting authentication script.
+15:06:30 10:54:35 POST Request has been made.
+15:06:30 10:54:35 Signiture keys match.
+15:06:30 10:54:35 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:06:30 10:54:35 
+15:06:30 10:54:35 
+15:06:30 10:54:35 
+15:06:30 10:54:35 
+15:06:30 10:54:35 User and password failed. Writting failure XML.
+15:06:30 10:54:35 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Failure</result><id></id><name></name><email></email></authentication>
+
+
+15:06:30 10:55:51 Starting authentication script.
+15:06:30 10:55:51 POST Request has been made.
+15:06:30 10:55:51 Signiture keys match.
+15:06:30 10:55:51 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:06:30 10:55:51 
+15:06:30 10:55:51 
+15:06:30 10:55:51 
+15:06:30 10:55:51 
+15:06:30 10:55:51 User and password failed. Writting failure XML.
+15:06:30 10:55:51 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Failure</result><id></id><name></name><email></email></authentication>
+
+
+15:06:30 10:55:52 Starting authentication script.
+15:06:30 10:55:52 POST Request has been made.
+15:06:30 10:55:52 Signiture keys match.
+15:06:30 10:55:52 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:06:30 10:55:52 
+15:06:30 10:55:52 
+15:06:30 10:55:52 
+15:06:30 10:55:52 
+15:06:30 10:55:52 User and password failed. Writting failure XML.
+15:06:30 10:55:52 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Failure</result><id></id><name></name><email></email></authentication>
+
+
+15:06:30 10:56:16 Starting authentication script.
+15:06:30 10:56:16 POST Request has been made.
+15:06:30 10:56:16 Signiture keys match.
+15:06:30 10:56:16 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:06:30 10:56:16 1
+15:06:30 10:56:16 My Reading Log
+15:06:30 10:56:16 password
+15:06:30 10:56:16 test@test.com
+15:06:30 10:56:16 User and password sucessful. Writting success XML.
+15:06:30 10:56:16 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>My Reading Log</name><email>test@test.com</email></authentication>
+
+
+15:06:30 10:58:58 Starting authentication script.
+15:06:30 10:58:58 POST Request has been made.
+15:06:30 10:58:58 Signiture keys match.
+15:06:30 10:58:58 select * from ReaderTable where reader_name='Jerome Log' and reader_password='testme'
+15:06:30 10:58:58 1010
+15:06:30 10:58:58 Jerome Log
+15:06:30 10:58:58 testme
+15:06:30 10:58:58 subrock@gmail.com
+15:06:30 10:58:58 User and password sucessful. Writting success XML.
+15:06:30 10:58:58 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1010</id><name>Jerome Log</name><email>subrock@gmail.com</email></authentication>
+
+
+15:06:30 11:19:44 Starting authentication script.
+15:06:30 11:19:44 POST Request has been made.
+15:06:30 11:19:44 Signiture keys match.
+15:06:30 11:19:44 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:06:30 11:19:44 1
+15:06:30 11:19:44 My Reading Log
+15:06:30 11:19:44 password
+15:06:30 11:19:44 test@test.com
+15:06:30 11:19:44 User and password sucessful. Writting success XML.
+15:06:30 11:19:44 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>My Reading Log</name><email>test@test.com</email></authentication>
+
+
+15:06:30 11:41:23 Starting authentication script.
+15:06:30 11:41:23 POST Request has been made.
+15:06:30 11:41:23 Signiture keys match.
+15:06:30 11:41:23 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:06:30 11:41:23 1
+15:06:30 11:41:23 My Reading Log
+15:06:30 11:41:23 password
+15:06:30 11:41:23 test@test.com
+15:06:30 11:41:23 User and password sucessful. Writting success XML.
+15:06:30 11:41:23 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>My Reading Log</name><email>test@test.com</email></authentication>
+
+
+15:07:01 12:19:33 Starting authentication script.
+15:07:01 12:19:33 POST Request has been made.
+15:07:01 12:19:33 Signiture keys match.
+15:07:01 12:19:33 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:07:01 12:19:33 1
+15:07:01 12:19:33 My Reading Log
+15:07:01 12:19:33 password
+15:07:01 12:19:33 test@test.com
+15:07:01 12:19:33 User and password sucessful. Writting success XML.
+15:07:01 12:19:33 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>My Reading Log</name><email>test@test.com</email></authentication>
+
+
+15:07:01 03:17:31 Starting authentication script.
+15:07:01 03:17:31 POST Request has been made.
+15:07:01 03:17:31 Signiture keys match.
+15:07:01 03:17:31 select * from ReaderTable where reader_name='Jerome Summer Reading Log' and reader_password='testme'
+15:07:01 03:17:31 
+15:07:01 03:17:31 
+15:07:01 03:17:31 
+15:07:01 03:17:31 
+15:07:01 03:17:31 User and password failed. Writting failure XML.
+15:07:01 03:17:31 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Failure</result><id></id><name></name><email></email></authentication>
+
+
+15:07:01 03:18:14 Starting authentication script.
+15:07:01 03:18:14 POST Request has been made.
+15:07:01 03:18:14 Signiture keys match.
+15:07:01 03:18:14 select * from ReaderTable where reader_name='Jerome Log' and reader_password='testme'
+15:07:01 03:18:14 1010
+15:07:01 03:18:14 Jerome Log
+15:07:01 03:18:14 testme
+15:07:01 03:18:14 subrock@gmail.com
+15:07:01 03:18:14 User and password sucessful. Writting success XML.
+15:07:01 03:18:14 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1010</id><name>Jerome Log</name><email>subrock@gmail.com</email></authentication>
+
+
+15:07:01 03:18:47 Starting authentication script.
+15:07:01 03:18:47 POST Request has been made.
+15:07:01 03:18:47 Signiture keys match.
+15:07:01 03:18:47 select * from ReaderTable where reader_name='Jerome Log' and reader_password='password'
+15:07:01 03:18:47 
+15:07:01 03:18:47 
+15:07:01 03:18:47 
+15:07:01 03:18:47 
+15:07:01 03:18:47 User and password failed. Writting failure XML.
+15:07:01 03:18:47 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Failure</result><id></id><name></name><email></email></authentication>
+
+
+15:07:01 03:19:00 Starting authentication script.
+15:07:01 03:19:00 POST Request has been made.
+15:07:01 03:19:00 Signiture keys match.
+15:07:01 03:19:00 select * from ReaderTable where reader_name='Jerome Log' and reader_password='testme'
+15:07:01 03:19:00 1010
+15:07:01 03:19:00 Jerome Log
+15:07:01 03:19:00 testme
+15:07:01 03:19:00 subrock@gmail.com
+15:07:01 03:19:00 User and password sucessful. Writting success XML.
+15:07:01 03:19:00 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1010</id><name>Jerome Log</name><email>subrock@gmail.com</email></authentication>
+
+
+15:07:01 04:55:13 Starting authentication script.
+15:07:01 04:55:13 POST Request has been made.
+15:07:01 04:55:13 Signiture keys match.
+15:07:01 04:55:13 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:07:01 04:55:13 1
+15:07:01 04:55:13 My Reading Log
+15:07:01 04:55:13 password
+15:07:01 04:55:13 test@test.com
+15:07:01 04:55:13 User and password sucessful. Writting success XML.
+15:07:01 04:55:13 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>My Reading Log</name><email>test@test.com</email></authentication>
+
+
+15:07:01 08:30:04 Starting authentication script.
+15:07:01 08:30:04 POST Request has been made.
+15:07:01 08:30:04 Signiture keys match.
+15:07:01 08:30:04 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:07:01 08:30:04 1
+15:07:01 08:30:04 My Reading Log
+15:07:01 08:30:04 password
+15:07:01 08:30:04 test@test.com
+15:07:01 08:30:04 User and password sucessful. Writting success XML.
+15:07:01 08:30:04 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>My Reading Log</name><email>test@test.com</email></authentication>
+
+
+15:07:01 08:30:43 Starting authentication script.
+15:07:01 08:30:43 POST Request has been made.
+15:07:01 08:30:43 Signiture keys match.
+15:07:01 08:30:43 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:07:01 08:30:43 1
+15:07:01 08:30:43 My Reading Log
+15:07:01 08:30:43 password
+15:07:01 08:30:43 test@test.com
+15:07:01 08:30:43 User and password sucessful. Writting success XML.
+15:07:01 08:30:43 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>My Reading Log</name><email>test@test.com</email></authentication>
+
+
+15:07:02 01:31:58 Starting authentication script.
+15:07:02 01:31:58 POST Request has been made.
+15:07:02 01:31:58 Signiture keys match.
+15:07:02 01:31:58 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:07:02 01:31:58 1
+15:07:02 01:31:58 My Reading Log
+15:07:02 01:31:58 password
+15:07:02 01:31:58 test@test.com
+15:07:02 01:31:58 User and password sucessful. Writting success XML.
+15:07:02 01:31:58 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>My Reading Log</name><email>test@test.com</email></authentication>
+
+
+15:07:02 08:22:51 Starting authentication script.
+15:07:02 08:22:51 POST Request has been made.
+15:07:02 08:22:51 Signiture keys match.
+15:07:02 08:22:51 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:07:02 08:22:51 1
+15:07:02 08:22:51 My Reading Log
+15:07:02 08:22:52 password
+15:07:02 08:22:52 test@test.com
+15:07:02 08:22:52 User and password sucessful. Writting success XML.
+15:07:02 08:22:52 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>My Reading Log</name><email>test@test.com</email></authentication>
+
+
+15:07:02 08:23:36 Starting authentication script.
+15:07:02 08:23:36 POST Request has been made.
+15:07:02 08:23:36 Signiture keys match.
+15:07:02 08:23:36 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:07:02 08:23:36 1
+15:07:02 08:23:36 My Reading Log
+15:07:02 08:23:36 password
+15:07:02 08:23:36 test@test.com
+15:07:02 08:23:36 User and password sucessful. Writting success XML.
+15:07:02 08:23:36 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>My Reading Log</name><email>test@test.com</email></authentication>
+
+
+15:07:02 08:28:37 Starting authentication script.
+15:07:02 08:28:37 POST Request has been made.
+15:07:02 08:28:37 Signiture keys match.
+15:07:02 08:28:37 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:07:02 08:28:37 1
+15:07:02 08:28:37 My Reading Log
+15:07:02 08:28:37 password
+15:07:02 08:28:37 test@test.com
+15:07:02 08:28:37 User and password sucessful. Writting success XML.
+15:07:02 08:28:37 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>My Reading Log</name><email>test@test.com</email></authentication>
+
+
+15:07:02 09:54:59 Starting authentication script.
+15:07:02 09:54:59 POST Request has been made.
+15:07:02 09:54:59 Signiture keys match.
+15:07:02 09:54:59 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:07:02 09:54:59 22
+15:07:02 09:54:59 My Reading Log
+15:07:02 09:54:59 password
+15:07:02 09:54:59 
+15:07:02 09:54:59 User and password sucessful. Writting success XML.
+15:07:02 09:54:59 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>22</id><name>My Reading Log</name><email></email></authentication>
+
+
+15:07:02 09:55:53 Starting authentication script.
+15:07:02 09:55:53 POST Request has been made.
+15:07:02 09:55:53 Signiture keys match.
+15:07:02 09:55:53 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:07:02 09:55:53 1
+15:07:02 09:55:53 Student Reading Log
+15:07:02 09:55:53 password
+15:07:02 09:55:53 jeromesch@outlook.com
+15:07:02 09:55:53 User and password sucessful. Writting success XML.
+15:07:02 09:55:53 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:07:02 10:01:51 Starting authentication script.
+15:07:02 10:01:51 POST Request has been made.
+15:07:02 10:01:51 Signiture keys match.
+15:07:02 10:01:51 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:07:02 10:01:51 1
+15:07:02 10:01:51 Student Reading Log
+15:07:02 10:01:51 password
+15:07:02 10:01:51 jeromesch@outlook.com
+15:07:02 10:01:51 User and password sucessful. Writting success XML.
+15:07:02 10:01:51 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:07:02 11:02:40 Starting authentication script.
+15:07:02 11:02:40 POST Request has been made.
+15:07:02 11:02:40 Signiture keys match.
+15:07:02 11:02:40 select * from ReaderTable where reader_name='Jerome Log' and reader_password='testmme'
+15:07:02 11:02:40 
+15:07:02 11:02:40 
+15:07:02 11:02:40 
+15:07:02 11:02:40 
+15:07:02 11:02:40 User and password failed. Writting failure XML.
+15:07:02 11:02:40 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Failure</result><id></id><name></name><email></email></authentication>
+
+
+15:07:02 11:02:59 Starting authentication script.
+15:07:02 11:02:59 POST Request has been made.
+15:07:02 11:02:59 Signiture keys match.
+15:07:02 11:02:59 select * from ReaderTable where reader_name='Jerome Log' and reader_password='testme'
+15:07:02 11:02:59 27
+15:07:02 11:02:59 Jerome Log
+15:07:02 11:02:59 testme
+15:07:02 11:02:59 jeromesch@outlook.com
+15:07:02 11:02:59 User and password sucessful. Writting success XML.
+15:07:02 11:02:59 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>27</id><name>Jerome Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:07:02 11:23:49 Starting authentication script.
+15:07:02 11:23:49 POST Request has been made.
+15:07:02 11:23:49 Signiture keys match.
+15:07:02 11:23:49 select * from ReaderTable where reader_name='Jerome Log' and reader_password='testme'
+15:07:02 11:23:49 27
+15:07:02 11:23:49 Jerome Log
+15:07:02 11:23:49 testme
+15:07:02 11:23:49 jeromesch@outlook.com
+15:07:02 11:23:49 User and password sucessful. Writting success XML.
+15:07:02 11:23:49 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>27</id><name>Jerome Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:07:03 02:35:16 Starting authentication script.
+15:07:03 02:35:16 POST Request has been made.
+15:07:03 02:35:16 Signiture keys match.
+15:07:03 02:35:16 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:07:03 02:35:16 22
+15:07:03 02:35:16 My Reading Log
+15:07:03 02:35:16 password
+15:07:03 02:35:16 
+15:07:03 02:35:16 User and password sucessful. Writting success XML.
+15:07:03 02:35:16 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>22</id><name>My Reading Log</name><email></email></authentication>
+
+
+15:07:03 02:35:27 Starting authentication script.
+15:07:03 02:35:27 POST Request has been made.
+15:07:03 02:35:27 Signiture keys match.
+15:07:03 02:35:27 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:07:03 02:35:27 1
+15:07:03 02:35:27 Student Reading Log
+15:07:03 02:35:27 password
+15:07:03 02:35:27 jeromesch@outlook.com
+15:07:03 02:35:27 User and password sucessful. Writting success XML.
+15:07:03 02:35:27 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:07:04 01:48:22 Starting authentication script.
+15:07:04 01:48:22 POST Request has been made.
+15:07:04 01:48:22 Signiture keys match.
+15:07:04 01:48:22 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:07:04 01:48:22 1
+15:07:04 01:48:22 Student Reading Log
+15:07:04 01:48:22 password
+15:07:04 01:48:22 jeromesch@outlook.com
+15:07:04 01:48:22 User and password sucessful. Writting success XML.
+15:07:04 01:48:22 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:07:06 07:46:36 Starting authentication script.
+15:07:06 07:46:36 POST Request has been made.
+15:07:06 07:46:36 Signiture keys match.
+15:07:06 07:46:36 select * from ReaderTable where reader_name='Jerome Log' and reader_password='testme'
+15:07:06 07:46:36 27
+15:07:06 07:46:36 Jerome Log
+15:07:06 07:46:36 testme
+15:07:06 07:46:36 jeromesch@outlook.com
+15:07:06 07:46:36 User and password sucessful. Writting success XML.
+15:07:06 07:46:36 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>27</id><name>Jerome Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:07:06 11:07:02 Starting authentication script.
+15:07:06 11:07:02 POST Request has been made.
+15:07:06 11:07:02 Signiture keys match.
+15:07:06 11:07:02 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:07:06 11:07:02 22
+15:07:06 11:07:02 My Reading Log
+15:07:06 11:07:02 password
+15:07:06 11:07:02 
+15:07:06 11:07:02 User and password sucessful. Writting success XML.
+15:07:06 11:07:02 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>22</id><name>My Reading Log</name><email></email></authentication>
+
+
+15:07:06 11:08:49 Starting authentication script.
+15:07:06 11:08:49 POST Request has been made.
+15:07:06 11:08:49 Signiture keys match.
+15:07:06 11:08:49 select * from ReaderTable where reader_name='Jerome Log' and reader_password='testme'
+15:07:06 11:08:49 27
+15:07:06 11:08:49 Jerome Log
+15:07:06 11:08:49 testme
+15:07:06 11:08:49 jeromesch@outlook.com
+15:07:06 11:08:49 User and password sucessful. Writting success XML.
+15:07:06 11:08:49 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>27</id><name>Jerome Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:07:08 10:29:37 Starting authentication script.
+15:07:08 10:29:37 POST Request has been made.
+15:07:08 10:29:37 Signiture keys match.
+15:07:08 10:29:37 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:07:08 10:29:37 22
+15:07:08 10:29:37 My Reading Log
+15:07:08 10:29:37 password
+15:07:08 10:29:37 
+15:07:08 10:29:37 User and password sucessful. Writting success XML.
+15:07:08 10:29:37 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>22</id><name>My Reading Log</name><email></email></authentication>
+
+
+15:07:08 10:29:47 Starting authentication script.
+15:07:08 10:29:47 POST Request has been made.
+15:07:08 10:29:47 Signiture keys match.
+15:07:08 10:29:47 select * from ReaderTable where reader_name='Student Reading Log' and reader_password=''
+15:07:08 10:29:47 
+15:07:08 10:29:47 
+15:07:08 10:29:47 
+15:07:08 10:29:47 
+15:07:08 10:29:47 User and password sucessful. Writting success XML.
+15:07:08 10:29:47 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id></id><name></name><email></email></authentication>
+
+
+15:07:08 10:29:49 Starting authentication script.
+15:07:08 10:29:49 POST Request has been made.
+15:07:08 10:29:49 Signiture keys match.
+15:07:08 10:29:49 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:07:08 10:29:49 22
+15:07:08 10:29:49 My Reading Log
+15:07:08 10:29:49 password
+15:07:08 10:29:49 
+15:07:08 10:29:49 User and password sucessful. Writting success XML.
+15:07:08 10:29:49 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>22</id><name>My Reading Log</name><email></email></authentication>
+
+
+15:07:08 10:30:05 Starting authentication script.
+15:07:08 10:30:05 POST Request has been made.
+15:07:08 10:30:05 Signiture keys match.
+15:07:08 10:30:05 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:07:08 10:30:05 1
+15:07:08 10:30:05 Student Reading Log
+15:07:08 10:30:05 password
+15:07:08 10:30:05 jeromesch@outlook.com
+15:07:08 10:30:05 User and password sucessful. Writting success XML.
+15:07:08 10:30:05 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:07:10 03:45:51 Starting authentication script.
+15:07:10 03:45:51 POST Request has been made.
+15:07:10 03:45:51 Signiture keys match.
+15:07:10 03:45:51 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:07:10 03:45:51 22
+15:07:10 03:45:51 My Reading Log
+15:07:10 03:45:51 password
+15:07:10 03:45:51 
+15:07:10 03:45:51 User and password sucessful. Writting success XML.
+15:07:10 03:45:51 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>22</id><name>My Reading Log</name><email></email></authentication>
+
+
+15:07:10 03:46:31 Starting authentication script.
+15:07:10 03:46:31 POST Request has been made.
+15:07:10 03:46:31 Signiture keys match.
+15:07:10 03:46:31 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:07:10 03:46:31 22
+15:07:10 03:46:31 My Reading Log
+15:07:10 03:46:31 password
+15:07:10 03:46:31 
+15:07:10 03:46:31 User and password sucessful. Writting success XML.
+15:07:10 03:46:31 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>22</id><name>My Reading Log</name><email></email></authentication>
+
+
+15:07:11 02:01:27 Starting authentication script.
+15:07:11 02:01:27 POST Request has been made.
+15:07:11 02:01:27 Signiture keys match.
+15:07:11 02:01:27 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:07:11 02:01:27 22
+15:07:11 02:01:27 My Reading Log
+15:07:11 02:01:27 password
+15:07:11 02:01:27 
+15:07:11 02:01:27 User and password sucessful. Writting success XML.
+15:07:11 02:01:27 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>22</id><name>My Reading Log</name><email></email></authentication>
+
+
+15:07:13 11:44:17 Starting authentication script.
+15:07:13 11:44:17 POST Request has been made.
+15:07:13 11:44:17 Signiture keys match.
+15:07:13 11:44:17 select * from ReaderTable where reader_name='Jerome Log' and reader_password='testme'
+15:07:13 11:44:17 27
+15:07:13 11:44:17 Jerome Log
+15:07:13 11:44:17 testme
+15:07:13 11:44:17 jeromesch@outlook.com
+15:07:13 11:44:17 User and password sucessful. Writting success XML.
+15:07:13 11:44:17 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>27</id><name>Jerome Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:07:13 11:55:10 Starting authentication script.
+15:07:13 11:55:10 POST Request has been made.
+15:07:13 11:55:10 Signiture keys match.
+15:07:13 11:55:10 select * from ReaderTable where reader_name='Jerome Log' and reader_password='testme'
+15:07:13 11:55:10 27
+15:07:13 11:55:10 Jerome Log
+15:07:13 11:55:10 testme
+15:07:13 11:55:10 jeromesch@outlook.com
+15:07:13 11:55:10 User and password sucessful. Writting success XML.
+15:07:13 11:55:10 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>27</id><name>Jerome Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:07:13 11:59:14 Starting authentication script.
+15:07:13 11:59:14 POST Request has been made.
+15:07:13 11:59:14 Signiture keys match.
+15:07:13 11:59:14 select * from ReaderTable where reader_name='Jerome Log' and reader_password='testme'
+15:07:13 11:59:14 27
+15:07:13 11:59:14 Jerome Log
+15:07:13 11:59:14 testme
+15:07:13 11:59:14 jeromesch@outlook.com
+15:07:13 11:59:14 User and password sucessful. Writting success XML.
+15:07:13 11:59:14 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>27</id><name>Jerome Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:07:13 11:59:30 Starting authentication script.
+15:07:13 11:59:30 POST Request has been made.
+15:07:13 11:59:30 Signiture keys match.
+15:07:13 11:59:30 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:07:13 11:59:30 1
+15:07:13 11:59:30 Student Reading Log
+15:07:13 11:59:30 password
+15:07:13 11:59:30 jeromesch@outlook.com
+15:07:13 11:59:30 User and password sucessful. Writting success XML.
+15:07:13 11:59:30 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:07:14 12:00:23 Starting authentication script.
+15:07:14 12:00:23 POST Request has been made.
+15:07:14 12:00:23 Signiture keys match.
+15:07:14 12:00:23 select * from ReaderTable where reader_name='Jerome Log' and reader_password='testme'
+15:07:14 12:00:23 27
+15:07:14 12:00:23 Jerome Log
+15:07:14 12:00:23 testme
+15:07:14 12:00:23 jeromesch@outlook.com
+15:07:14 12:00:23 User and password sucessful. Writting success XML.
+15:07:14 12:00:23 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>27</id><name>Jerome Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:07:15 01:20:19 Starting authentication script.
+15:07:15 01:20:19 POST Request has been made.
+15:07:15 01:20:19 Signiture keys match.
+15:07:15 01:20:19 select * from ReaderTable where reader_name='Jerome Log' and reader_password='testme'
+15:07:15 01:20:19 27
+15:07:15 01:20:19 Jerome Log
+15:07:15 01:20:19 testme
+15:07:15 01:20:19 jeromesch@outlook.com
+15:07:15 01:20:19 User and password sucessful. Writting success XML.
+15:07:15 01:20:19 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>27</id><name>Jerome Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:07:16 04:54:16 Starting authentication script.
+15:07:16 04:54:16 POST Request has been made.
+15:07:16 04:54:16 Signiture keys match.
+15:07:16 04:54:16 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:07:16 04:54:16 22
+15:07:16 04:54:16 My Reading Log
+15:07:16 04:54:16 password
+15:07:16 04:54:16 
+15:07:16 04:54:16 User and password sucessful. Writting success XML.
+15:07:16 04:54:16 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>22</id><name>My Reading Log</name><email></email></authentication>
+
+
+15:07:16 04:55:31 Starting authentication script.
+15:07:16 04:55:31 POST Request has been made.
+15:07:16 04:55:31 Signiture keys match.
+15:07:16 04:55:31 select * from ReaderTable where reader_name='Student Reading Log' and reader_password=''
+15:07:16 04:55:31 
+15:07:16 04:55:31 
+15:07:16 04:55:31 
+15:07:16 04:55:31 
+15:07:16 04:55:31 User and password sucessful. Writting success XML.
+15:07:16 04:55:31 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id></id><name></name><email></email></authentication>
+
+
+15:07:16 04:55:56 Starting authentication script.
+15:07:16 04:55:56 POST Request has been made.
+15:07:16 04:55:56 Signiture keys match.
+15:07:16 04:55:56 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:07:16 04:55:56 1
+15:07:16 04:55:56 Student Reading Log
+15:07:16 04:55:56 password
+15:07:16 04:55:56 jeromesch@outlook.com
+15:07:16 04:55:56 User and password sucessful. Writting success XML.
+15:07:16 04:55:56 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:07:16 04:57:00 Starting authentication script.
+15:07:16 04:57:00 POST Request has been made.
+15:07:16 04:57:00 Signiture keys match.
+15:07:16 04:57:00 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:07:16 04:57:00 22
+15:07:16 04:57:00 My Reading Log
+15:07:16 04:57:00 password
+15:07:16 04:57:00 
+15:07:16 04:57:00 User and password sucessful. Writting success XML.
+15:07:16 04:57:00 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>22</id><name>My Reading Log</name><email></email></authentication>
+
+
+15:07:16 04:57:34 Starting authentication script.
+15:07:16 04:57:34 POST Request has been made.
+15:07:16 04:57:34 Signiture keys match.
+15:07:16 04:57:34 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:07:16 04:57:34 22
+15:07:16 04:57:34 My Reading Log
+15:07:16 04:57:34 password
+15:07:16 04:57:34 
+15:07:16 04:57:34 User and password sucessful. Writting success XML.
+15:07:16 04:57:34 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>22</id><name>My Reading Log</name><email></email></authentication>
+
+
+15:07:16 01:49:21 Starting authentication script.
+15:07:16 01:49:21 POST Request has been made.
+15:07:16 01:49:21 Signiture keys match.
+15:07:16 01:49:21 select * from ReaderTable where reader_name='Jerome Log' and reader_password='testme'
+15:07:16 01:49:21 27
+15:07:16 01:49:21 Jerome Log
+15:07:16 01:49:21 testme
+15:07:16 01:49:21 jeromesch@outlook.com
+15:07:16 01:49:21 User and password sucessful. Writting success XML.
+15:07:16 01:49:21 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>27</id><name>Jerome Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:07:17 12:17:01 Starting authentication script.
+15:07:17 12:17:01 POST Request has been made.
+15:07:17 12:17:01 Signiture keys match.
+15:07:17 12:17:01 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:07:17 12:17:01 22
+15:07:17 12:17:01 My Reading Log
+15:07:17 12:17:02 password
+15:07:17 12:17:02 
+15:07:17 12:17:02 User and password sucessful. Writting success XML.
+15:07:17 12:17:02 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>22</id><name>My Reading Log</name><email></email></authentication>
+
+
+15:07:17 12:18:35 Starting authentication script.
+15:07:17 12:18:35 POST Request has been made.
+15:07:17 12:18:35 Signiture keys match.
+15:07:17 12:18:35 select * from ReaderTable where reader_name='Jerome Log' and reader_password='testme'
+15:07:17 12:18:35 27
+15:07:17 12:18:35 Jerome Log
+15:07:17 12:18:35 testme
+15:07:17 12:18:35 jeromesch@outlook.com
+15:07:17 12:18:35 User and password sucessful. Writting success XML.
+15:07:17 12:18:35 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>27</id><name>Jerome Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:07:17 10:36:15 Starting authentication script.
+15:07:17 10:36:15 POST Request has been made.
+15:07:17 10:36:15 Signiture keys match.
+15:07:17 10:36:15 select * from ReaderTable where reader_name='Jerome Log' and reader_password='testme'
+15:07:17 10:36:15 27
+15:07:17 10:36:15 Jerome Log
+15:07:17 10:36:15 testme
+15:07:17 10:36:15 jeromesch@outlook.com
+15:07:17 10:36:15 User and password sucessful. Writting success XML.
+15:07:17 10:36:15 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>27</id><name>Jerome Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:07:18 01:26:31 Starting authentication script.
+15:07:18 01:26:31 POST Request has been made.
+15:07:18 01:26:31 Signiture keys match.
+15:07:18 01:26:31 select * from ReaderTable where reader_name='My Reading Log' and reader_password='password'
+15:07:18 01:26:31 22
+15:07:18 01:26:31 My Reading Log
+15:07:18 01:26:31 password
+15:07:18 01:26:31 
+15:07:18 01:26:31 User and password sucessful. Writting success XML.
+15:07:18 01:26:31 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>22</id><name>My Reading Log</name><email></email></authentication>
+
+
+15:07:18 01:29:18 Starting authentication script.
+15:07:18 01:29:18 POST Request has been made.
+15:07:18 01:29:18 Signiture keys match.
+15:07:18 01:29:18 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:07:18 01:29:18 1
+15:07:18 01:29:18 Student Reading Log
+15:07:18 01:29:18 password
+15:07:18 01:29:18 jeromesch@outlook.com
+15:07:18 01:29:18 User and password sucessful. Writting success XML.
+15:07:18 01:29:18 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:07:18 07:22:10 Starting authentication script.
+15:07:18 07:22:10 POST Request has been made.
+15:07:18 07:22:10 Signiture keys match.
+15:07:18 07:22:10 select * from ReaderTable where reader_name='Jerome Log' and reader_password='testme'
+15:07:18 07:22:10 27
+15:07:18 07:22:10 Jerome Log
+15:07:18 07:22:10 testme
+15:07:18 07:22:10 jeromesch@outlook.com
+15:07:18 07:22:10 User and password sucessful. Writting success XML.
+15:07:18 07:22:10 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>27</id><name>Jerome Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:07:18 10:43:31 Starting authentication script.
+15:07:18 10:43:31 POST Request has been made.
+15:07:18 10:43:31 Signiture keys match.
+15:07:18 10:43:31 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:07:18 10:43:31 1
+15:07:18 10:43:31 Student Reading Log
+15:07:18 10:43:31 password
+15:07:18 10:43:31 jeromesch@outlook.com
+15:07:18 10:43:31 User and password sucessful. Writting success XML.
+15:07:18 10:43:31 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:07:20 11:02:09 Starting authentication script.
+15:07:20 11:02:09 POST Request has been made.
+15:07:20 11:02:09 Signiture keys match.
+15:07:20 11:02:09 select * from ReaderTable where reader_name='Jerome Log' and reader_password='testme'
+15:07:20 11:02:09 27
+15:07:20 11:02:09 Jerome Log
+15:07:20 11:02:09 testme
+15:07:20 11:02:09 jeromesch@outlook.com
+15:07:20 11:02:09 User and password sucessful. Writting success XML.
+15:07:20 11:02:09 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>27</id><name>Jerome Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:07:22 04:03:07 Starting authentication script.
+15:07:22 04:03:07 POST Request has been made.
+15:07:22 04:03:07 Signiture keys match.
+15:07:22 04:03:07 select * from ReaderTable where reader_name='Jerome Log' and reader_password='testme'
+15:07:22 04:03:07 27
+15:07:22 04:03:07 Jerome Log
+15:07:22 04:03:07 testme
+15:07:22 04:03:07 jeromesch@outlook.com
+15:07:22 04:03:07 User and password sucessful. Writting success XML.
+15:07:22 04:03:07 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>27</id><name>Jerome Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:07:26 01:05:22 Starting authentication script.
+15:07:26 01:05:22 POST Request has been made.
+15:07:26 01:05:22 Signiture keys match.
+15:07:26 01:05:23 select * from ReaderTable where reader_name='Jerome Log' and reader_password='testme'
+15:07:26 01:05:23 27
+15:07:26 01:05:23 Jerome Log
+15:07:26 01:05:23 testme
+15:07:26 01:05:23 jeromesch@outlook.com
+15:07:26 01:05:23 User and password sucessful. Writting success XML.
+15:07:26 01:05:23 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>27</id><name>Jerome Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:07:30 01:43:13 Starting authentication script.
+15:07:30 01:43:13 POST Request has been made.
+15:07:30 01:43:13 Signiture keys match.
+15:07:30 01:43:13 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:07:30 01:43:13 1
+15:07:30 01:43:13 Student Reading Log
+15:07:30 01:43:13 password
+15:07:30 01:43:13 jeromesch@outlook.com
+15:07:30 01:43:13 User and password sucessful. Writting success XML.
+15:07:30 01:43:13 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:07:30 02:24:49 Starting authentication script.
+15:07:30 02:24:49 POST Request has been made.
+15:07:30 02:24:49 Signiture keys match.
+15:07:30 02:24:49 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:07:30 02:24:49 1
+15:07:30 02:24:49 Student Reading Log
+15:07:30 02:24:49 password
+15:07:30 02:24:49 jeromesch@outlook.com
+15:07:30 02:24:49 User and password sucessful. Writting success XML.
+15:07:30 02:24:49 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:07:30 08:03:19 Starting authentication script.
+15:07:30 08:03:19 POST Request has been made.
+15:07:30 08:03:19 Signiture keys match.
+15:07:30 08:03:19 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:07:30 08:03:19 1
+15:07:30 08:03:19 Student Reading Log
+15:07:30 08:03:19 password
+15:07:30 08:03:19 jeromesch@outlook.com
+15:07:30 08:03:19 User and password sucessful. Writting success XML.
+15:07:30 08:03:19 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:08:01 01:45:52 Starting authentication script.
+15:08:01 01:45:52 POST Request has been made.
+15:08:01 01:45:52 Signiture keys match.
+15:08:01 01:45:52 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:08:01 01:45:52 1
+15:08:01 01:45:52 Student Reading Log
+15:08:01 01:45:52 password
+15:08:01 01:45:52 jeromesch@outlook.com
+15:08:01 01:45:52 User and password sucessful. Writting success XML.
+15:08:01 01:45:52 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:08:02 04:50:44 Starting authentication script.
+15:08:02 04:50:44 POST Request has been made.
+15:08:02 04:50:44 Signiture keys match.
+15:08:02 04:50:44 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:08:02 04:50:44 1
+15:08:02 04:50:44 Student Reading Log
+15:08:02 04:50:44 password
+15:08:02 04:50:44 jeromesch@outlook.com
+15:08:02 04:50:44 User and password sucessful. Writting success XML.
+15:08:02 04:50:44 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:08:03 03:15:33 Starting authentication script.
+15:08:03 03:15:33 POST Request has been made.
+15:08:03 03:15:33 Signiture keys match.
+15:08:03 03:15:33 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:08:03 03:15:33 1
+15:08:03 03:15:33 Student Reading Log
+15:08:03 03:15:33 password
+15:08:03 03:15:33 jeromesch@outlook.com
+15:08:03 03:15:33 User and password sucessful. Writting success XML.
+15:08:03 03:15:33 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:08:03 03:16:40 Starting authentication script.
+15:08:03 03:16:40 POST Request has been made.
+15:08:03 03:16:40 Signiture keys match.
+15:08:03 03:16:40 select * from ReaderTable where reader_name='Jerome Log' and reader_password='testme'
+15:08:03 03:16:40 27
+15:08:03 03:16:40 Jerome Log
+15:08:03 03:16:40 testme
+15:08:03 03:16:40 jeromesch@outlook.com
+15:08:03 03:16:40 User and password sucessful. Writting success XML.
+15:08:03 03:16:40 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>27</id><name>Jerome Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:08:05 11:00:47 Starting authentication script.
+15:08:05 11:00:47 POST Request has been made.
+15:08:05 11:00:47 Signiture keys match.
+15:08:05 11:00:47 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:08:05 11:00:47 1
+15:08:05 11:00:47 Student Reading Log
+15:08:05 11:00:47 password
+15:08:05 11:00:47 jeromesch@outlook.com
+15:08:05 11:00:47 User and password sucessful. Writting success XML.
+15:08:05 11:00:47 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:08:05 06:31:05 Starting authentication script.
+15:08:05 06:31:05 POST Request has been made.
+15:08:05 06:31:05 Signiture keys match.
+15:08:05 06:31:05 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:08:05 06:31:05 1
+15:08:05 06:31:05 Student Reading Log
+15:08:05 06:31:05 password
+15:08:05 06:31:05 jeromesch@outlook.com
+15:08:05 06:31:05 User and password sucessful. Writting success XML.
+15:08:05 06:31:05 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:08:05 06:47:25 Starting authentication script.
+15:08:05 06:47:25 POST Request has been made.
+15:08:05 06:47:25 Signiture keys match.
+15:08:05 06:47:25 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:08:05 06:47:25 1
+15:08:05 06:47:25 Student Reading Log
+15:08:05 06:47:25 password
+15:08:05 06:47:25 jeromesch@outlook.com
+15:08:05 06:47:25 User and password sucessful. Writting success XML.
+15:08:05 06:47:25 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:08:05 07:10:28 Starting authentication script.
+15:08:05 07:10:28 POST Request has been made.
+15:08:05 07:10:28 Signiture keys match.
+15:08:05 07:10:28 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:08:05 07:10:28 1
+15:08:05 07:10:28 Student Reading Log
+15:08:05 07:10:28 password
+15:08:05 07:10:28 jeromesch@outlook.com
+15:08:05 07:10:28 User and password sucessful. Writting success XML.
+15:08:05 07:10:28 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:08:05 07:28:33 Starting authentication script.
+15:08:05 07:28:33 POST Request has been made.
+15:08:05 07:28:33 Signiture keys match.
+15:08:05 07:28:33 select * from ReaderTable where reader_name='Jerome Log' and reader_password='testme'
+15:08:05 07:28:33 27
+15:08:05 07:28:33 Jerome Log
+15:08:05 07:28:33 testme
+15:08:05 07:28:33 jeromesch@outlook.com
+15:08:05 07:28:33 User and password sucessful. Writting success XML.
+15:08:05 07:28:33 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>27</id><name>Jerome Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:08:06 02:24:03 Starting authentication script.
+15:08:06 02:24:03 POST Request has been made.
+15:08:06 02:24:03 Signiture keys match.
+15:08:06 02:24:03 select * from ReaderTable where reader_name='Jerome Log' and reader_password='testme'
+15:08:06 02:24:03 27
+15:08:06 02:24:03 Jerome Log
+15:08:06 02:24:03 testme
+15:08:06 02:24:03 jeromesch@outlook.com
+15:08:06 02:24:03 User and password sucessful. Writting success XML.
+15:08:06 02:24:03 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>27</id><name>Jerome Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:08:15 01:24:52 Starting authentication script.
+15:08:15 01:24:52 POST Request has been made.
+15:08:15 01:24:52 Signiture keys match.
+15:08:15 01:24:52 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:08:15 01:24:52 1
+15:08:15 01:24:52 Student Reading Log
+15:08:15 01:24:52 password
+15:08:15 01:24:52 jeromesch@outlook.com
+15:08:15 01:24:52 User and password sucessful. Writting success XML.
+15:08:15 01:24:52 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:08:20 08:03:25 Starting authentication script.
+15:08:20 08:03:25 POST Request has been made.
+15:08:20 08:03:25 Signiture keys match.
+15:08:20 08:03:25 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:08:20 08:03:25 1
+15:08:20 08:03:25 Student Reading Log
+15:08:20 08:03:25 password
+15:08:20 08:03:25 jeromesch@outlook.com
+15:08:20 08:03:25 User and password sucessful. Writting success XML.
+15:08:20 08:03:25 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:08:20 09:29:36 Starting authentication script.
+15:08:20 09:29:36 POST Request has been made.
+15:08:20 09:29:36 Signiture keys match.
+15:08:20 09:29:36 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:08:20 09:29:36 1
+15:08:20 09:29:36 Student Reading Log
+15:08:20 09:29:36 password
+15:08:20 09:29:36 jeromesch@outlook.com
+15:08:20 09:29:36 User and password sucessful. Writting success XML.
+15:08:20 09:29:36 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:08:25 10:03:54 Starting authentication script.
+15:08:25 10:03:54 POST Request has been made.
+15:08:25 10:03:54 Signiture keys match.
+15:08:25 10:03:54 select * from ReaderTable where reader_name='Jerome Log' and reader_password='testme'
+15:08:25 10:03:54 27
+15:08:25 10:03:54 Jerome Log
+15:08:25 10:03:54 testme
+15:08:25 10:03:54 jeromesch@outlook.com
+15:08:25 10:03:54 User and password sucessful. Writting success XML.
+15:08:25 10:03:54 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>27</id><name>Jerome Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:09:01 10:28:21 Starting authentication script.
+15:09:01 10:28:21 POST Request has been made.
+15:09:01 10:28:21 Signiture keys match.
+15:09:01 10:28:21 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:09:01 10:28:21 1
+15:09:01 10:28:21 Student Reading Log
+15:09:01 10:28:21 password
+15:09:01 10:28:21 jeromesch@outlook.com
+15:09:01 10:28:21 User and password sucessful. Writting success XML.
+15:09:01 10:28:21 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:09:04 09:36:23 Starting authentication script.
+15:09:04 09:36:23 POST Request has been made.
+15:09:04 09:36:23 Signiture keys match.
+15:09:04 09:36:23 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:09:04 09:36:23 1
+15:09:04 09:36:23 Student Reading Log
+15:09:04 09:36:23 password
+15:09:04 09:36:23 jeromesch@outlook.com
+15:09:04 09:36:23 User and password sucessful. Writting success XML.
+15:09:04 09:36:23 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
+
+15:09:10 03:17:59 Starting authentication script.
+15:09:10 03:17:59 POST Request has been made.
+15:09:10 03:17:59 Signiture keys match.
+15:09:10 03:17:59 select * from ReaderTable where reader_name='Student Reading Log' and reader_password='password'
+15:09:10 03:17:59 1
+15:09:10 03:17:59 Student Reading Log
+15:09:10 03:17:59 password
+15:09:10 03:17:59 jeromesch@outlook.com
+15:09:10 03:17:59 User and password sucessful. Writting success XML.
+15:09:10 03:17:59 End authentication.
+<?xml version='1.0' standalone='yes'?><authentication><result>Sucess</result><id>1</id><name>Student Reading Log</name><email>jeromesch@outlook.com</email></authentication>
+
