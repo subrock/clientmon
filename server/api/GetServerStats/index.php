@@ -38,7 +38,7 @@ if (strcmp($api_sign, $api_key) == 0) {
 
 	mysql_connect($db_host,$db_user,$db_password);
 	@mysql_select_db($db_name) or die( "Unable to select database");
-        $query="select * from ReaderTable where reader_name='".$auth_user."' and reader_password='".$auth_pass."'";
+        $query="select * from UserTable where user_name='".$auth_user."' and user_password='".$auth_pass."'";
 	writeToLog($query);
         $result=mysql_query($query);
         $rp=mysql_result($result,0,"reader_password");
