@@ -23,6 +23,19 @@ CREATE DATABASE /*!32312 IF NOT EXISTS*/ `ClientMon` /*!40100 DEFAULT CHARACTER 
 
 USE `ClientMon`;
 
+
+DROP TABLE IF EXISTS `UserTable`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `UserTable` (
+  `user_id` int(6) unsigned NOT NULL AUTO_INCREMENT,
+  `user_name` varchar(30) NOT NULL,
+  `user_password` varchar(30) NOT NULL,
+  `user_email` varchar(50) DEFAULT NULL,
+  PRIMARY KEY (`user_id`)                                                                                                                                                                                        
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
 --
 -- Table structure for table `category_table`
 --
